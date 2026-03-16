@@ -154,6 +154,15 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# my hidden files
+GenCV003.pdf
+data/
+compare.py
+try.ipynb
+STEPS.ipynb
+_UnderstandingDeepLearning_01_10_24_C.pdf
+*.txt
+
 # mypy
 .mypy_cache/
 .dmypy.json
