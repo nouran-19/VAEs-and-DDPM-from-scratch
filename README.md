@@ -1,5 +1,5 @@
-# VAEs-and-DDPM-from-scratch
-Implementing VAEs (Variational Auto Encoders) and DDPM (Denoising Diffusion Probabilistic Model) from-scratch, rained on a targeted 3-class subset of the CIFAR-10 dataset (for low specs devices) and comparison through computationally aligned comparison
+# VAEs-and-DDPMs-from-scratch
+Implementing VAEs (Variational Auto Encoders) and DDPMs (Denoising Diffusion Probabilistic Models) from-scratch, rained on a targeted 3-class subset of the CIFAR-10 dataset (for low specs devices) and comparison through computationally aligned comparison
 
 Here is a completely structured skeleton for your README.md based on your project files. It includes the environment requirements, a step-by-step replication guide, and the academic resources discussed earlier. 
 
